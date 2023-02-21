@@ -12,3 +12,9 @@ Add you seed phrase and external IP
 <h3>Then start script</h3>
 
 ./zeekaupdate.sh
+
+
+<H3>Also..</h3>
+
+
+The script is configured for the node installed in /root/ for the service file zeeka.service. If this is different, the script needs to be edited for yourself.
