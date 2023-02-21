@@ -5,7 +5,7 @@ git pull origin master
 cargo install --path .
 service zeeka stop
 mv bazuka bazuka_`date +%d%m%Y`
-cp target/release/bazuka .
+cp target/release/bazuka /root/.cargo/bin/
 
 rm -rf /root/.bazuka
 echo "Database deleted"
