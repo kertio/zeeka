@@ -7,7 +7,7 @@ cd zeeka<br>
 
 <h3>Edit file:</h3>
 nano zeekaupdate.sh<br>
-Add you seed phrase and external IP
+Add you network name <NET_NAME>, seed phrase and external IP
 
 <h3>Then start script</h3>
 
